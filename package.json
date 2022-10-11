@@ -1,0 +1,25 @@
+{
+  "name": "@tobzi/shop",
+  "version": "100.100.10",
+  "description": "",
+  "main": "Log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArbawiStudio/Shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArbawiStudio/Shop/issues"
+  },
+  "homepage": "https://github.com/ArbawiStudio/Shop#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-inviter": "^0.9.1",
+    "discord.js": "^14.5.1-dev.1665317070-5f72d8b.0",
+    "pro.db": "^3.0.6"
+  }
+}
